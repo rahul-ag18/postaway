@@ -1,0 +1,12 @@
+{"level":"info","message":"//api-docs-{}","service":"request-logging"}
+{"level":"info","message":"/favicon.ico-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/get-details/66eafb90b1b8f655961d56a5-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/get-details/66eafb90b1b8f655961d56a5-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/get-details/66eafb90b1b8f655961d56a5-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/get-details/66eafb90b1b8f655961d56a5-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/get-all-details-{}","service":"request-logging"}
+{"level":"info","message":"/api/posts-{}","service":"request-logging"}
